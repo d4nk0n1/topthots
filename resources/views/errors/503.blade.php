@@ -8,6 +8,7 @@
         <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 		<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.3/css/font/nano_icon_font3.eot"></script>
 
         <style>
             html, body {
@@ -44,7 +45,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title"><i class="fa fa-twitter"></i>@top<span style="color: #59fff9;font-weight: bolder;">thots</span>dot</div>
+                <div class="title"><i style="color: #59fff9;" class="fa fa-twitter"></i>@top<span style="color: #59fff9;font-weight: bolder;">thots</span>dot</div>
                 <img style="width:350px;" src="/img/mulaney.jpg" />
             </div>
         </div>

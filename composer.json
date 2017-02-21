@@ -13,7 +13,9 @@
         "itsgoingd/clockwork": "~1.12",
         "raveren/kint": "^1.0",
         "laravel/socialite": "^2.0",
-        "laravel/passport": "^1.0"
+        "laravel/passport": "^1.0",
+        "white-frame/dynatable": "2.*",
+        "twbs/bootstrap": "^3.3"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
