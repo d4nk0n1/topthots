@@ -71,7 +71,6 @@
             margin-bottom: 30px;
         }
     </style>
-    <script data-cfasync="false" type="text/javascript" src="//filamentapp.s3.amazonaws.com/f67b3505f21c3a4ea7f2405f441ea630.js" async="async"></script>
 </head>
 <body>
 <div class="flex-center position-ref full-height">
@@ -84,7 +83,10 @@
 
     <div class="content">
         <div class="title"><i style="color: #59fff9;" class="fa fa-twitter"></i>@top<span style="color: #59fff9;font-weight: bolder;">thots</span>dot</div>
-        <a href="http://twitter.com/topthotsdot" target="_blank"><img style="width:350px;" src="/img/mulaney.jpg" /></a>
+        <a href="http://twitter.com/topthotsdot" target="_blank">
+            <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TopThot?src=hash">#TopThot</a> award to <a href="https://twitter.com/SallySquirt">@sallysquirt</a> for best &quot;omg cum on my little girl face&quot; face 💯😻<a href="https://twitter.com/karlokarrera">@karlokarrera</a> <a href="https://twitter.com/mofosnetwork">@mofosnetwork</a> <a href="https://twitter.com/hashtag/dontbreakme?src=hash">#dontbreakme</a> <a href="https://t.co/FvDvDgrRui">pic.twitter.com/FvDvDgrRui</a></p>&mdash; TopThots.com (@topthotsdot) <a href="https://twitter.com/topthotsdot/status/814771886731173888">December 30, 2016</a></blockquote>
+            <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </a>
     </div>
 </div>
 </body>

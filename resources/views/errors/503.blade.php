@@ -7,8 +7,6 @@
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 		<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nanogallery/5.10.3/css/font/nano_icon_font3.eot"></script>
 
         <style>
             html, body {
@@ -47,6 +45,8 @@
             <div class="content">
                 <div class="title"><i style="color: #59fff9;" class="fa fa-twitter"></i>@top<span style="color: #59fff9;font-weight: bolder;">thots</span>dot</div>
                 <img style="width:350px;" src="/img/mulaney.jpg" />
+                <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TopThot?src=hash">#TopThot</a> award to <a href="https://twitter.com/SallySquirt">@sallysquirt</a> for best &quot;omg cum on my little girl face&quot; face 💯😻<a href="https://twitter.com/karlokarrera">@karlokarrera</a> <a href="https://twitter.com/mofosnetwork">@mofosnetwork</a> <a href="https://twitter.com/hashtag/dontbreakme?src=hash">#dontbreakme</a> <a href="https://t.co/FvDvDgrRui">pic.twitter.com/FvDvDgrRui</a></p>&mdash; TopThots.com (@topthotsdot) <a href="https://twitter.com/topthotsdot/status/814771886731173888">December 30, 2016</a></blockquote>
+                <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
         </div>
     </body>
