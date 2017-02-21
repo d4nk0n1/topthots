@@ -15,6 +15,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/callback', function () {
+    return view('callback');
+});
+
 Route::get('/voting', function () {
     return view('voting');
 });
