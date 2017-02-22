@@ -1,0 +1,23 @@
+/* 
+    Document   : affil4you
+    Created on : 21 sept. 2012, 10:38:04
+    Author     : BARY
+    Description: Mise en page du formualire mode de redirection
+        Purpose of the stylesheet follows.
+*/
+
+#affil4you-form input:nth-of-type(2) {margin-left: 127px;}
+#affil4you-form select {width: 200px;}
+#affil4you-form table td {margin-bottom: 0;}
+#affil4you-form table td.ib {display: inline-block;}
+#affil4you-form table td.col2 {width:610px;}
+#affil4you-form table td#col2-target {width:370px;}
+#affil4you-form div#form-adult{margin-left:20px; width:250px;}
+#affil4you-form div.a4u_notice { background:#FDEADB; width:370px;word-wrap: break-word;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
+#affil4you-form div.a4u_notice p{ padding:10px;}
+#affil4you-form div#target-notice { width:610px;}
+#affil4you-form div.message { word-wrap: break-word;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px; margin-top:20px;padding: 13px 10px;}
+#affil4you-form div.message-success { background:#CBE86B; border: 1px solid #D1E751;}
+#affil4you-form div.message-error { background:#FFCCCC; border: 1px solid #FFBBBB;}
+select[disabled] { color: #D8D8D8; }
+#affil4you-form .affil4you_categories_target_domain, #affil4you-form .affil4you_categories_target_display_name {display: none;}
