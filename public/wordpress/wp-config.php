@@ -55,6 +55,15 @@ define('SECURE_AUTH_SALT', 'HdY6c:1a=-K8x0oj8^/OwA&vj7cN[93la:Z]f?IfE)hJpe7h4Sw&
 define('LOGGED_IN_SALT',   'MZc Im_TytocC%<`|@(]}RtPqz)%%rL0`J@o&r7#zH!2duRU?QHnEjE8))S$0_bW');
 define('NONCE_SALT',       'd59Q%Y*A>3./VA#dLs]JK@fzTo!+}]j]7bAxo:wuU7dQbkd&.ozmHl9Gi4~?Sbl>');
 
+
+define('FS_METHOD', 'ftpext');
+define('FTP_BASE', '/var/www/html/topthots/public/wordpress/');
+define('FTP_USER', 'd4nk0n1');
+define('FTP_PASS', '1mm4cul473');
+define('FTP_HOST', 'host');
+define('FTP_SSL', false);
+
+
 /**#@-*/
 
 /**
