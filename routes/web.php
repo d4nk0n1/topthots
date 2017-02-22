@@ -23,6 +23,10 @@ Route::get('/voting', function () {
     return view('voting');
 });
 
+Route::get('/wp', function () {
+    return view('welcome');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
