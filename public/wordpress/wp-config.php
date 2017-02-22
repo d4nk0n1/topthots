@@ -58,8 +58,8 @@ define('NONCE_SALT',       'd59Q%Y*A>3./VA#dLs]JK@fzTo!+}]j]7bAxo:wuU7dQbkd&.ozm
 
 define('FS_METHOD', 'ftpext');
 define('FTP_BASE', '/var/www/html/topthots/public/wordpress/');
-define('FTP_USER', 'd4nk0n1');
-define('FTP_PASS', '1mm4cul473');
+define('FTP_USER', 'ubuntu');
+define('FTP_PASS', '');
 define('FTP_HOST', '52.6.211.132');
 define('FTP_SSL', false);
 
