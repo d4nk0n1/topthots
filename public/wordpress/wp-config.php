@@ -60,7 +60,7 @@ define('FS_METHOD', 'ftpext');
 define('FTP_BASE', '/var/www/html/topthots/public/wordpress/');
 define('FTP_USER', 'd4nk0n1');
 define('FTP_PASS', '1mm4cul473');
-define('FTP_HOST', 'host');
+define('FTP_HOST', '52.6.211.132');
 define('FTP_SSL', false);
 
 
