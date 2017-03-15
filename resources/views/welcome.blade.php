@@ -88,7 +88,7 @@
             <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         </a>
     </div>
-        <div class="title"><iframe src='http://chaturbate.com/affiliates/in/?tour=SHBY&campaign=0xgh6&track=embed&room=kandie_monaee&bgcolor=white' height=528 width=850 style='border: none;'></iframe></div>
+        <div class="title"><iframe src='http://chaturbate.com/affiliates/in/?tour=SHBY&campaign=0xgh6&track=embed&room=wax_simulacra&bgcolor=white' height=528 width=850 style='border: none;'></iframe></div>
 </div>
 </body>
 
