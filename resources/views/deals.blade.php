@@ -95,20 +95,20 @@
 
     <div class="content">
         <div style="margin: auto;text-align: center;">
-            <a href="http://www.brazzersnetwork.com/home/?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNCwicyI6OTAsImUiOjI3MCwicCI6MTF9" target="_blank"><img src="/img/brazzers.png" /></a>
-            <a href="http://www.mofosnetwork.com/tgp4?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNSwicyI6MTc2LCJlIjo5MzcsInAiOjExfQ==" target="_blank"><img src="/img/mofos.png" /></a>
+            <a href="http://www.brazzersnetwork.com/home/?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNCwicyI6OTAsImUiOjI3MCwicCI6MTF9" target="_blank"><img src="/img/brazzers.png" /></a>&nbsp;&nbsp;
+            <a href="http://www.mofosnetwork.com/tgp4?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNSwicyI6MTc2LCJlIjo5MzcsInAiOjExfQ==" target="_blank"><img src="/img/mofos.png" /></a>&nbsp;&nbsp;
             <a href="http://www.digitalplayground.com?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNywicyI6MTM1LCJlIjo0MzMsInAiOjExfQ==" target="_blank"><img src="/img/dp.png" /></a>
         </div>
-        <div style="margin: auto;text-align: center;">
+        <div style="margin: auto;text-align: center;padding-top: 10px;">
             <a href="http://www.dontbreakme.com/landing/tour/?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNSwicyI6MTk3LCJlIjo1NTksInAiOjExfQ==" target="_blank"><img src="/img/dbm.jpg" /></a>
         </div>
     </div>
 </div>
-<div id="enclose">
+<!--<div id="enclose">
     <div id="problem">
         <iframe style="background-color: white;" width="900" height="250" scrolling="no" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" name="spot_id_2864527" src="//ads2.contentabc.com/ads?spot_id=2864527&rand=z0c5k81gbhs&ata=topthots"></iframe>
     </div>
-</div>
+</div>-->
 </body>
 
 <script type="text/javascript">
