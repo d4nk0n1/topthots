@@ -94,7 +94,14 @@
     @endif
 
     <div class="content">
-        <a href="http://www.brazzersnetwork.com/home/?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNCwicyI6OTAsImUiOjI3MCwicCI6MTF9" target="_blank"><img src="/img/brazzers.png" /></a>
+        <div style="margin: auto;text-align: center;">
+            <a href="http://www.brazzersnetwork.com/home/?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNCwicyI6OTAsImUiOjI3MCwicCI6MTF9" target="_blank"><img src="/img/brazzers.png" /></a>
+            <a href="http://www.mofosnetwork.com/tgp4?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNSwicyI6MTc2LCJlIjo5MzcsInAiOjExfQ==" target="_blank"><img src="/img/mofos.png" /></a>
+            <a href="http://www.digitalplayground.com?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNywicyI6MTM1LCJlIjo0MzMsInAiOjExfQ==" target="_blank"><img src="/img/dp.png" /></a>
+        </div>
+        <div style="margin: auto;text-align: center;">
+            <a href="http://www.dontbreakme.com/landing/tour/?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNSwicyI6MTk3LCJlIjo1NTksInAiOjExfQ==" target="_blank"><img src="/img/dbm.jpg" /></a>
+        </div>
     </div>
 </div>
 <div id="enclose">
