@@ -78,6 +78,8 @@
         .m-b-md {
             margin-bottom: 30px;
         }
+        #problem {margin-right:auto;margin-left:auto;width:900px;}
+        #enclose {position:fixed;bottom:0px;width:100%;}
     </style>
 </head>
 <body>
@@ -92,22 +94,32 @@
     @endif
 
     <div class="content">
-
+        <a href="http://www.brazzersnetwork.com/home/?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNCwicyI6OTAsImUiOjI3MCwicCI6MTF9" target="_blank"><img src="/img/brazzers.png" /></a>
+    </div>
+</div>
+<div id="enclose">
+    <div id="problem">
+        <iframe style="background-color: white;" width="900" height="250" scrolling="no" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" name="spot_id_2864527" src="//ads2.contentabc.com/ads?spot_id=2864527&rand=z0c5k81gbhs&ata=topthots"></iframe>
     </div>
 </div>
 </body>
 
-<!-- JuicyAds v3.0 -->
-<script async src="//adserver.juicyads.com/js/jads.js"></script>
-<div style="text-align: center;margin: auto;">
-    <!--<div style="position:fixed;bottom:0px;left:0px;"><a href="http://reallygoodlink.freehookupaffair.com/hit.php?s=122&p=1&a=101963&t=0" target="_blank"><img src="/img/180x1030-copia.gif"></a></div>-->
-    <ins id="571041" data-width="728" data-height="102"></ins>
-    <!--<div style="position:fixed;bottom:0px;right:0px;"><a href="https://manage.juicyads.com/ref2.php?ref=103010" target="_blank"><img src="/img/240x60.jpg"></a></div>-->
-</div>
-<script>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':571041});</script>
-<!--JuicyAds END-->
-
 <script type="text/javascript">
+    $(function(){
+        $(window).resize(function(){
+            placeFooter();
+        });
+        placeFooter();
+        // hide it before it's positioned
+        $('#footer').css('display','inline');
+    });
+
+    function placeFooter() {
+        var windHeight = $(window).height();
+        var footerHeight = $('#footer').height();
+        var offset = parseInt(windHeight) - parseInt(footerHeight);
+        $('#footer').css('top',offset);
+    }
     // Function called if AdBlock is not detected
     function adBlockNotDetected() {
         alert('Please disable your ad blocker software and/or extensions!');

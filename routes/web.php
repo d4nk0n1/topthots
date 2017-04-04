@@ -31,6 +31,10 @@ Route::get('/store', function () {
     return view('store');
 });
 
+Route::get('/deals', function () {
+    return view('deals');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
