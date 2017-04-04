@@ -94,7 +94,7 @@
     @endif
 
     <div class="content">
-        <div style="margin: auto;text-align: center;">
+        <div style="margin: auto;text-align: center; border: 4px solid #59FFF9;">
             <a style="padding-right: 25px;" href="http://www.brazzersnetwork.com/home/?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNCwicyI6OTAsImUiOjI3MCwicCI6MTF9" target="_blank"><img src="/img/brazzers.png" /></a>
             <a style="padding-right: 25px;" href="http://www.mofosnetwork.com/tgp4?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNSwicyI6MTc2LCJlIjo5MzcsInAiOjExfQ==" target="_blank"><img src="/img/mofos.png" /></a>
             <a href="http://www.digitalplayground.com?ats=eyJhIjoxNjE5NTcsImMiOjQ1ODE2NzY0LCJuIjoxNywicyI6MTM1LCJlIjo0MzMsInAiOjExfQ==" target="_blank"><img src="/img/dp.png" /></a>
