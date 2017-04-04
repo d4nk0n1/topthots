@@ -102,6 +102,7 @@
 <div style="text-align: center;margin: auto;">
     <div style="position:fixed;bottom:0px;left:0px;"><a href="https://manage.juicyads.com/ref2.php?ref=103010" target="_blank"><img src="/img/240x60.jpg"></a></div>
     <ins id="571041" data-width="728" data-height="102"></ins>
+    <div style="position:fixed;bottom:0px;right:0px;"><a href="http://reallygoodlink.freehookupaffair.com/hit.php?s=122&p=1&a=101963&t=0" target="_blank"><img src="/img/338x235-copia.gif"></a></div>
 </div>
 <script>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':571041});</script>
 <!--JuicyAds END-->
