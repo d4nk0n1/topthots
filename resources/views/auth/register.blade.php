@@ -68,7 +68,7 @@
 
                         <div class="form-group">
                             <div class="col-md-6 col-md-offset-4">
-                                <button type="submit" style="background-color:#59FFF9 !important;" class="btn btn-primary">
+                                <button type="submit" style="font-weight:900;background-color:#59FFF9 !important;" class="btn btn-primary">
                                     REGISTER
                                 </button>
                             </div>
