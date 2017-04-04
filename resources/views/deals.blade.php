@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="juicyads-site-verification" content="19042176deadc5d4190895e6ab74f805">
-    <title>TopThots.com</title>
+    <title>Exclusive TopThots Deals</title>
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
@@ -92,9 +92,7 @@
     @endif
 
     <div class="content">
-        <div class="title"><i style="color: #59fff9;" class="fa fa-twitter"></i>@top<span style="color: #59fff9;font-weight: bolder;">thots</span>dot</div>
-        <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">best <a href="https://twitter.com/AmilianKushxXx">@AmilianKushxXx</a> scene to date imo. <a href="https://twitter.com/hashtag/EbonyTopThot?src=hash">#EbonyTopThot</a> for Aplril💯🔥 <a href="https://t.co/Q1lHG92OSw">pic.twitter.com/Q1lHG92OSw</a></p>&mdash; TopThots.com (@topthotsdot) <a href="https://twitter.com/topthotsdot/status/847172937165819904">March 29, 2017</a></blockquote>
-        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
     </div>
 </div>
 </body>
