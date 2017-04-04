@@ -14,7 +14,17 @@
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
     <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
-
+    <!-- Start JuicyAds Mobile -->
+    <script type="text/javascript" src="http://js.juicyads.com/jam_min.js"></script>
+    <script type="text/javascript">window.onload=check_mobile(103010,189883)</script>
+    <!-- Begin JuicyAds PopUnder Code -->
+    <script type="text/javascript">juicy_code='3454x2u2q214u4p2w2f453d444';</script>
+    <script type="text/javascript" src="http://js.juicyads.com/jac.js" charset="utf-8"></script>
+    <!-- End JuicyAds PopUnder Code -->
+    <script>var wc_aff_id = 101963;var wc_c = '' ;var wc_niche = 'straight';var wc_back = 1;var wc_pop = 1</script>
+    <script src="//whalecashads.com/tools/back/back.js"></script>
+    <script>var fuckAdBlock = false;</script>
+    <script src="/js/fuckadblock.js"></script>
     <!-- Styles -->
     <style>
         html, body {
@@ -74,31 +84,49 @@
 <div class="flex-center position-ref full-height">
     @if (Route::has('login'))
         <div class="top-right links">
-            <a href="{{ url('/login') }}">Login</a>
-            <a href="{{ url('/register') }}">Register</a>
+            <a style="color:#F8B8C8;font-weight:900;font-size:32px;" href="{{ url('/login') }}">Login</a>
+            <a style="color:#59FFF9;font-weight:900;font-size:32px;" href="{{ url('/register') }}">Register</a>
         </div>
     @endif
 
     <div class="content">
         <div class="title"><i style="color: #59fff9;" class="fa fa-twitter"></i>@top<span style="color: #59fff9;font-weight: bolder;">thots</span>dot</div>
-        <a href="http://twitter.com/topthotsdot" target="_blank">
-            <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TopThot?src=hash">#TopThot</a> award to <a href="https://twitter.com/SallySquirt">@sallysquirt</a> for best &quot;omg cum on my little girl face&quot; face 💯😻<a href="https://twitter.com/karlokarrera">@karlokarrera</a> <a href="https://twitter.com/mofosnetwork">@mofosnetwork</a> <a href="https://twitter.com/hashtag/dontbreakme?src=hash">#dontbreakme</a> <a href="https://t.co/FvDvDgrRui">pic.twitter.com/FvDvDgrRui</a></p>&mdash; TopThots.com (@topthotsdot) <a href="https://twitter.com/topthotsdot/status/814771886731173888">December 30, 2016</a></blockquote>
-            <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </a>
+        <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">best <a href="https://twitter.com/AmilianKushxXx">@AmilianKushxXx</a> scene to date imo. <a href="https://twitter.com/hashtag/EbonyTopThot?src=hash">#EbonyTopThot</a> for Aplril💯🔥 <a href="https://t.co/Q1lHG92OSw">pic.twitter.com/Q1lHG92OSw</a></p>&mdash; TopThots.com (@topthotsdot) <a href="https://twitter.com/topthotsdot/status/847172937165819904">March 29, 2017</a></blockquote>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
-        <div class="title"><iframe src='http://chaturbate.com/affiliates/in/?tour=SHBY&campaign=0xgh6&track=embed&room=wax_simulacra&bgcolor=white' height=528 width=850 style='border: none;'></iframe></div>
 </div>
 </body>
 
-<script type="text/javascript" >
-    <!-- Begin JuicyAds PopUnder Code -->
-    <script type="text/javascript">juicy_code='3454x2u2q214u4p2w2f453d444';</script>
-<script type="text/javascript" src="http://js.juicyads.com/jac.js" charset="utf-8"></script>
-<!-- End JuicyAds PopUnder Code -->
 <!-- JuicyAds v3.0 -->
 <script async src="//adserver.juicyads.com/js/jads.js"></script>
-<ins id="571041" data-width="728" data-height="102"></ins>
+<div style="text-align: center;margin: auto;">
+    <div style="position:fixed;bottom:0px;left:0px;"><a href="https://manage.juicyads.com/ref2.php?ref=103010" target="_blank"><img src="/img/240x60.jpg"></a></div>
+    <ins id="571041" data-width="728" data-height="102"></ins>
+</div>
 <script>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':571041});</script>
 <!--JuicyAds END-->
+
+<script type="text/javascript">
+    // Function called if AdBlock is not detected
+    function adBlockNotDetected() {
+        alert('Please disable your ad blocker software and/or extensions!');
+        //console.log('block not detected!');
+    }
+    // Function called if AdBlock is detected
+    function adBlockDetected() {
+        //alert('Please disable your ad blocker software and/or extension!');
+        //console.log('block detected!');
+    }
+
+    $( document ).ready(function() {
+        fuckAdBlock = new FuckAdBlock;
+        if (typeof fuckAdBlock === 'undefined') {
+            adBlockDetected();
+        } else {
+            fuckAdBlock.onDetected(adBlockDetected);
+            fuckAdBlock.onNotDetected(adBlockNotDetected);
+        }
+    });
 </script>
+
 </html>
