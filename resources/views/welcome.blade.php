@@ -84,7 +84,7 @@
 <div class="flex-center position-ref full-height">
     @if (Route::has('login'))
         <div class="top-right links">
-            <a style="color:#59FFF9;font-weight:900;font-size:32px;" href="http://topthotsdot.adultshopping.com/" target="_blank">Store</a>
+            <a style="color:#59FFF9;font-weight:900;font-size:32px;" href="{{ url('/store') }}>Store</a>
             <a style="color:#F8B8C8;font-weight:900;font-size:32px;" href="{{ url('/login') }}">Login</a>
             <a style="color:#59FFF9;font-weight:900;font-size:32px;" href="{{ url('/register') }}">Register</a>
         </div>

@@ -27,6 +27,10 @@ Route::get('/wp', function () {
     return view('welcome');
 });
 
+Route::get('/store', function () {
+    return view('store');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
